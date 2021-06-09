@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="placeholder_image">80dp</dimen>
+    <dimen name="placeholder_title">15dp</dimen>
+    <dimen name="placeholder_abstract">12dp</dimen>
+    <dimen name="placeholder_text_height">8dp</dimen>
+</resources>

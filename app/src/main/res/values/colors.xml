@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#424342</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="likeTint">#4287f5</color>
+    <color name="bookmark">#276123</color>
+    <color name="whiteTint">#fafafa</color>
+
+    <!-- Shimmer colors -->
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="placeholder_image">#0c0c0c</color>
+    <color name="placeholder_title">#1a1a1a</color>
+    <color name="placeholder_abstract">#777</color>
+
+</resources>
