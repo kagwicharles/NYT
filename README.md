@@ -1,2 +1,2 @@
 # NYT 
-# Android mobile application uses the NYT API to get latest news
+# Android mobile application that uses the NYT API to get latest news
